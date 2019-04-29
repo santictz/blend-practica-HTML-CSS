@@ -1,0 +1,25 @@
+Repetir desde 1 hasta 4 veces
+Dar paso hacia adelante
+Fin Repetir
+
+Repetir desde 1 hasta 6 veces
+Dar paso hacia la derecha
+Fin Repetir
+  Si(HayObstaculo) entonces
+    Dar paso hacia adelante
+    Dar paso hacia derecha
+    Dar paso hacia derecha
+    Dar paso hacia atras
+    Repetir desde 1 hasta 5 veces
+    Dar paso hacia la derecha
+    Fin Repetir
+  Sino
+    Repetir desde 1 hasta 5 veces
+    Dar paso hacia la derecha
+    Fin Repetir
+
+Repetir desde 1 hasta 2 veces
+Dar paso hacia adelante
+Fin Repetir
+
+Sentarse
