@@ -1,0 +1,9 @@
+input:hover{
+    background-color: orange;
+}
+input:focus{
+    background-color: violet;
+}
+p:nth-child(2){
+    background-color: orange;
+}
